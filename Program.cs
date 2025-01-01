@@ -10,25 +10,25 @@ class Program
 
 
         
-
-       try
+ try
         {
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 connection.Open();
                 Console.WriteLine("Connection established!");
 
-                // Define the insert query
-                string insertQuery = "INSERT INTO YourTableName (Name) VALUES (@Name)";
+                // Define the update query
+                string updateQuery = "UPDATE YourTableName SET Name = @NewName WHERE Id = @Id";
 
-                using (SqlCommand command = new SqlCommand(insertQuery, connection))
+                using (SqlCommand command = new SqlCommand(updateQuery, connection))
                 {
-                    // Parameterized query to avoid SQL injection
-                    command.Parameters.AddWithValue("@Name", "David");
+                    // Parameterized query
+                    command.Parameters.AddWithValue("@NewName", "Eve");
+                    command.Parameters.AddWithValue("@Id", 2); // Assuming the ID to update is 2
 
                     // Execute the query
                     int rowsAffected = command.ExecuteNonQuery();
-                    Console.WriteLine($"{rowsAffected} row(s) inserted.");
+                    Console.WriteLine($"{rowsAffected} row(s) updated.");
                 }
             }
         }
