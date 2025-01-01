@@ -20,3 +20,4 @@ C:\Users\troubleman96\Desktop\Pluto!\c#\Database Trial\obj\Debug\net9.0\refint\D
 C:\Users\troubleman96\Desktop\Pluto!\c#\Database Trial\obj\Debug\net9.0\Database Trial.pdb
 C:\Users\troubleman96\Desktop\Pluto!\c#\Database Trial\obj\Debug\net9.0\Database Trial.genruntimeconfig.cache
 C:\Users\troubleman96\Desktop\Pluto!\c#\Database Trial\obj\Debug\net9.0\ref\Database Trial.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\Database Trial\obj\Debug\net9.0\Database Trial.sourcelink.json
