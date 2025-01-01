@@ -1,0 +1,22 @@
+C:\Users\troubleman96\Desktop\Pluto!\c#\Database Trial\bin\Debug\net9.0\Database Trial.exe
+C:\Users\troubleman96\Desktop\Pluto!\c#\Database Trial\bin\Debug\net9.0\Database Trial.deps.json
+C:\Users\troubleman96\Desktop\Pluto!\c#\Database Trial\bin\Debug\net9.0\Database Trial.runtimeconfig.json
+C:\Users\troubleman96\Desktop\Pluto!\c#\Database Trial\bin\Debug\net9.0\Database Trial.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\Database Trial\bin\Debug\net9.0\Database Trial.pdb
+C:\Users\troubleman96\Desktop\Pluto!\c#\Database Trial\bin\Debug\net9.0\System.Data.SqlClient.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\Database Trial\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\Database Trial\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\Database Trial\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\Database Trial\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\Database Trial\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\Database Trial\obj\Debug\net9.0\Database Trial.csproj.AssemblyReference.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\Database Trial\obj\Debug\net9.0\Database Trial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troubleman96\Desktop\Pluto!\c#\Database Trial\obj\Debug\net9.0\Database Trial.AssemblyInfoInputs.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\Database Trial\obj\Debug\net9.0\Database Trial.AssemblyInfo.cs
+C:\Users\troubleman96\Desktop\Pluto!\c#\Database Trial\obj\Debug\net9.0\Database Trial.csproj.CoreCompileInputs.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\Database Trial\obj\Debug\net9.0\Database.1C882201.Up2Date
+C:\Users\troubleman96\Desktop\Pluto!\c#\Database Trial\obj\Debug\net9.0\Database Trial.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\Database Trial\obj\Debug\net9.0\refint\Database Trial.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\Database Trial\obj\Debug\net9.0\Database Trial.pdb
+C:\Users\troubleman96\Desktop\Pluto!\c#\Database Trial\obj\Debug\net9.0\Database Trial.genruntimeconfig.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\Database Trial\obj\Debug\net9.0\ref\Database Trial.dll
