@@ -10,25 +10,24 @@ class Program
 
 
         
- try
+  try
         {
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 connection.Open();
                 Console.WriteLine("Connection established!");
 
-                // Define the update query
-                string updateQuery = "UPDATE YourTableName SET Name = @NewName WHERE Id = @Id";
+                // Define the delete query
+                string deleteQuery = "DELETE FROM YourTableName WHERE Id = @Id";
 
-                using (SqlCommand command = new SqlCommand(updateQuery, connection))
+                using (SqlCommand command = new SqlCommand(deleteQuery, connection))
                 {
                     // Parameterized query
-                    command.Parameters.AddWithValue("@NewName", "Eve");
-                    command.Parameters.AddWithValue("@Id", 2); // Assuming the ID to update is 2
+                    command.Parameters.AddWithValue("@Id", 3); // Assuming the ID to delete is 3
 
                     // Execute the query
                     int rowsAffected = command.ExecuteNonQuery();
-                    Console.WriteLine($"{rowsAffected} row(s) updated.");
+                    Console.WriteLine($"{rowsAffected} row(s) deleted.");
                 }
             }
         }
